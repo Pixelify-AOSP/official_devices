@@ -96,5 +96,14 @@
             "frame": null,
             "active": true
         },
+        {
+            "codename": "garnet",
+            "codename_alt": "garnet",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 13 Pro 5G / POCO X6 5G",
+            "maintainer_name": "HEYDR",
+            "frame": null,
+            "active": true
+        },
     ]
 }
