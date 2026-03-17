@@ -13,5 +13,6 @@
 - Added missing face detection libs.
 - Kernel: Update frequenties & voltage.
 - Updated BCR 2.7 Version.
+- Added charging control.
 - Some bugs are Fixed. 
 - Some Other Misc Changes.
