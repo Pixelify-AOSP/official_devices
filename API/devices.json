@@ -106,15 +106,6 @@
             "active": true
         },
         {
-           "codename": "avicii",
-           "codename_alt": "avicii",
-           "vendor": "OnePlus",
-           "model": "OnePlus Nord",
-           "maintainer_name": "Sreeshankar K",
-           "frame": null,
-           "active": true
-        },
-        {
            "codename": "raphael",
            "codename_alt": "raphael",
            "vendor": "Xiaomi",
