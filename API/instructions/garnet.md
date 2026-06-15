@@ -1,7 +1,7 @@
 ### Install Guide
 
 * **Boot** into recovery
-* **Install** the latest HyperOS 2.0 firmware for your respective region
+* **Install** the latest HyperOS 3.0 firmware for your respective region
 * **Install** the ROM
 * **Reinstall** recovery *(or enable Auto Reflash Recovery)*
 * **Reboot** to recovery

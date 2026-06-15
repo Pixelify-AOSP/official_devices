@@ -42,3 +42,11 @@ Merge tag 'LA.VENDOR.1.0.r2-16600-WAIPIO.QISI15.0' of https://git.codelinaro.org
 - ANDROID: Enable CONFIG_LAZY_RCU
 - Enable BBRplus
 - Various upstream fixes and improvements for block & I/O scheduler
+
+# 15-06-2026
+- Sync latest upstream source up to v5.5
+- Disable Skia tracing by default
+- Update MiuiCamera from OS3.0.5.0.WNRMIXM (@grewal)
+- surfaceflinger: Reduce max acquired frame buffers to 2
+- Add overlay to improve signal reception
+- Drop Spatial Audio
