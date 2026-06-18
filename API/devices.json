@@ -78,7 +78,7 @@
             "frame": null,
             "active": true
         },
-	{
+        {
             "codename": "whyred",
             "codename_alt": "whyred",
             "vendor": "Xiaomi",
@@ -106,67 +106,78 @@
             "active": true
         },
         {
-           "codename": "avicii",
-           "codename_alt": "avicii",
-           "vendor": "OnePlus",
-           "model": "OnePlus Nord",
-           "maintainer_name": "Kaveer",
-           "frame": null,
-           "active": true
+            "codename": "avicii",
+            "codename_alt": "avicii",
+            "vendor": "OnePlus",
+            "model": "OnePlus Nord",
+            "maintainer_name": "Kaveer",
+            "frame": null,
+            "active": true
         },
         {
-           "codename": "raphael",
-           "codename_alt": "raphael",
-           "vendor": "Xiaomi",
-           "model": "Redmi K20 Pro",
-           "maintainer_name": "bulla03x",
-           "frame": null,
-           "active": true
+            "codename": "raphael",
+            "codename_alt": "raphael",
+            "vendor": "Xiaomi",
+            "model": "Redmi K20 Pro",
+            "maintainer_name": "bulla03x",
+            "frame": null,
+            "active": true
         },
         {
-           "codename": "giulia",
-           "codename_alt": "giulia",
-           "vendor": "OnePlus",
-           "model": "OnePlus 13R",
-           "maintainer_name": "0mar",
-           "frame": null,
-           "active": true
+            "codename": "giulia",
+            "codename_alt": "giulia",
+            "vendor": "OnePlus",
+            "model": "OnePlus 13R",
+            "maintainer_name": "0mar",
+            "frame": null,
+            "active": true
         },
         {
-           "codename": "giuliac",
-           "codename_alt": "giuliac",
-           "vendor": "OnePlus",
-           "model": "OnePlus Ace 5",
-           "maintainer_name": "0mar",
-           "frame": null,
-           "active": true
+            "codename": "giuliac",
+            "codename_alt": "giuliac",
+            "vendor": "OnePlus",
+            "model": "OnePlus Ace 5",
+            "maintainer_name": "0mar",
+            "frame": null,
+            "active": true
         },
         {
-           "codename": "haydn",
-           "codename_alt": "haydnin",
-           "vendor": "Xiaomi",
-           "model": "Mi 11x Pro",
-           "maintainer_name": "Lucifer",
-           "frame": null,
-           "active": true
+            "codename": "haydn",
+            "codename_alt": "haydnin",
+            "vendor": "Xiaomi",
+            "model": "Mi 11x Pro",
+            "maintainer_name": "Lucifer",
+            "frame": null,
+            "active": true
         },
         {
-           "codename": "miatoll",
-           "codename_alt": "miatoll",
-           "vendor": "Xiaomi",
-           "model": "Redmi Note 9S/Pro/Pro Max & POCO M2 Pro",
-           "maintainer_name": "Drxkaii",
-           "frame": null,
-           "active": true
+            "codename": "miatoll",
+            "codename_alt": "miatoll",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 9S/Pro/Pro Max & POCO M2 Pro",
+            "maintainer_name": "Drxkaii",
+            "frame": null,
+            "active": true
         },
         {
-           "codename": "lisaa",
-           "codename_alt": "lisaa",
-           "vendor": "Realme",
-           "model": "Realme GT Neo 3",
-           "maintainer_name": "Thundergod",
-           "frame": null,
-           "active": true
+            "codename": "lisaa",
+            "codename_alt": "lisaa",
+            "vendor": "Realme",
+            "model": "Realme GT Neo 3",
+            "maintainer_name": "Thundergod",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "larry",
+            "codename_alt": "larry",
+            "vendor": "OnePlus",
+            "model": "OnePlus Nord CE 3 Lite / Nord N30 5G",
+            "maintainer_name": "Viaan",
+            "github_username": "viaan-thakur",
+			"image_url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-3-lite-.jpg",
+            "frame": null,
+            "active": true
         }
     ]
 }
