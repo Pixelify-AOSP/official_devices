@@ -1,1 +1,4 @@
-- Source upstream
+- Synced with latest upstream sources
+- Merged the latest upstream commits and improvements
+- Included various bug fixes, optimizations, and stability enhancements
+- General source cleanup for a smoother overall experience
