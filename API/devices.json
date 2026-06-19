@@ -194,5 +194,16 @@
             "frame": null,
             "active": true
         }
+		{
+             "codename": "xaga",
+             "codename_alt": "xaga",
+             "vendor": "Xiaomi",
+             "model": "Redmi K50i",
+             "maintainer_name": "Rohan",
+             "telegram_username": "Itsrohan17",
+             "github_username": "itsrohan17",
+             "frame": null,
+             "active": true
+		}
     ]
 }
