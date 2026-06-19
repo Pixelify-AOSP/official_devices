@@ -1,5 +1,5 @@
 # Prerequisites:
-- Ensure you are on Latest A15/HyperOS 2.0 FW.
+- Ensure you are on Latest HyperOS 3.0 FW.
 
 # Clean flash:
 - Reboot to bootloader
