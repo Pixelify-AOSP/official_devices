@@ -61,15 +61,6 @@
         },
         {
             "active": true,
-            "codename": "pipa",
-            "codename_alt": "pipa",
-            "frame": null,
-            "maintainer_name": "Amrutesh",
-            "model": "Xiaomi Pad 6",
-            "vendor": "Xiaomi"
-        },
-        {
-            "active": true,
             "codename": "munch",
             "codename_alt": "munchin",
             "donate_link": "https://t.me/kenskuyyplayground/3004/3007",
