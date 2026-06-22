@@ -227,6 +227,17 @@
             "model": "OnePlus 8 Pro",
             "telegram_username": "SonalSingh18",
             "vendor": "OnePlus"
+        {
+            "active": true,
+            "codename": "m31",
+            "codename_alt": "m31",
+            "frame": null,
+            "github_username": "FelcoX",
+            "image_url": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m31-sm-m315f-1.jpg",
+            "maintainer_name": "Parbindar7",
+            "model": "Samsung Galaxy M31",
+            "telegram_username": "Parbindar7",
+            "vendor": "Samsung"
         }
     ]
 }
