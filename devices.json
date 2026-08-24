@@ -171,22 +171,6 @@
       ]
     }
   ],
-  "Nothing": [
-    {
-      "name": "CMF Phone 1",
-      "codename": "Tetris",
-      "maintainer": "Anshuman_X",
-      "github": "https://github.com/maxxcodebug",
-      "telegram": "https://t.me/AnshumanAhirwar",
-      "supported_versions": [
-        {
-          "version_code": "6.0",
-          "stable": true,
-          "deprecated": false
-        }
-      ]
-    }
-  ],
   "Motorola": [
     {
       "name": "Motorola G57 Power",
