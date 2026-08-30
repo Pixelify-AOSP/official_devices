@@ -41,6 +41,122 @@
           "deprecated": false
         }
       ]
+    },
+    {
+      "name": "POCO X5 Pro 5G",
+      "codename": "redwood",
+      "maintainer": "BlueHeart016",
+      "github": "https://github.com/BlueHeart01",
+      "telegram": "https://t.me/bluehearts_Builds016",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Poco M2 Pro/Redmi note 9s/9 Pro/9 Pro Max/10 Lite",
+      "codename": "miatoll",
+      "maintainer": "Drxkaii",
+      "github": "https://github.com/octasoul",
+      "telegram": "https://t.me/Octasoul",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Redmi 12 5G / Poco M6 Pro 5G / Redmi Note 12R",
+      "codename": "sky",
+      "maintainer": "kAiF",
+      "github": "https://github.com/askthekaif",
+      "telegram": "https://t.me/kAiF_00z",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 13 Pro 5G / POCO X6 5G",
+      "codename": "garnet",
+      "maintainer": "HEYDR",
+      "github": "https://github.com/zylhdrXP",
+      "telegram": "https://t.me/ZylhdrXP",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
+  ],
+  "OnePlus": [
+    {
+      "name": "OnePlus Nord CE 3 Lite / N30",
+      "codename": "larry",
+      "maintainer": "Viaan",
+      "github": "https://github.com/n0escape=exe",
+      "telegram": "https://t.me/n0escape-exe",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "OnePlus 13R",
+      "codename": "giulia",
+      "maintainer": "0mar",
+      "github": "https://github.com/0mar99",
+      "telegram": "https://t.me/Omar99A",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "OnePlus Ace 5",
+      "codename": "giuliac",
+      "maintainer": "0mar",
+      "github": "https://github.com/0mar99",
+      "telegram": "https://t.me/Omar99A",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
+  ],
+  "Nothing": [
+    {
+      "name": "CMF Phone 1",
+      "codename": "Tetris",
+      "maintainer": "Anshuman_X",
+      "github": "https://github.com/maxxcodebug",
+      "telegram": "https://t.me/AnshumanAhirwar",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
