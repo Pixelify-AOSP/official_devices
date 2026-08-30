@@ -1,24 +1,19 @@
 {
   "response": [
     {
-      "maintainer": "kenway214",
-      "currently_maintained": true,
-      "oem": "Xiaomi",
-      "device": "Redmi Turbo 3 / POCO F6",
-      "filename": "ASCP-v6.0-peridot-OFFICIAL-20260624-0000.zip",
-      "download": "https://sourceforge.net/projects/project-ascp/files/peridot/6.0/ASCP-v6.0-peridot-OFFICIAL-20260624-0000.zip/download",
-      "timestamp": 1782259200,
-      "md5": "2ac217089988f711b7689513fb7f5aa5",
-      "sha256": "60e9e2e8db3dc5a4205ce4e14a5af3cb8bc86f09ff0a18b04e41212f4c3bc383",
-      "size": 4043014272,
-      "version": "6.0",
-      "buildtype": "userdebug",
-      "forum": "https://t.me/ph12nex",
-      "firmware": "",
-      "paypal": "",
-      "github": "https://github.com/kenway214",
-      "initial_installation_images": [],
-      "extra_images": []
+      "datetime": 1785088149,
+      "filename": "ASCP-v6.1-peridot-OFFICIAL-20260726-1728.zip",
+      "url": "https://sourceforge.net/projects/project-ascp/files/peridot/ASCP-v6.1-peridot-OFFICIAL-20260726-1728.zip",
+      "md5": "33ac6918d144222ff8cf98097beb733c",
+      "payload": [
+        {
+          "offset": 5085,
+          "FILE_HASH": "GetcB8zP9+DYEoXY8RvYtmCwfmoDISBOaBP1L+z5scA=",
+          "FILE_SIZE": "3992054008",
+          "METADATA_HASH": "TK+05rPfj2ExWCSf2MlK6/G+2GI6y4MFBnFJyo9iWFI=",
+          "METADATA_SIZE": "237251"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Raphael_8E_G5",
+      "currently_maintained": true,
+      "oem": "OnePlus",
+      "device": "OnePlus 15",
+      "filename": "ASCP-v6.1-infiniti-OFFICIAL-20260809-2127.zip",
+      "download": "https://sourceforge.net/projects/project-ascp/files/infiniti/ASCP-v6.1-infiniti-OFFICIAL-20260809-2127.zip",
+      "timestamp": 1786311781,
+      "md5": "7dd2a478ec9c24f55f7383fa1b660147",
+      "sha256": "81b3e3e1b5669d10ff595b905ab8bbb993448eba5bb6a9c7a680198fcf0642db",
+      "size": 5071438176,
+      "version": "6.1",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/raphael_zone",
+      "firmware": "CPH2745_16.0.9.400(EX01)",
+      "paypal": "",
+      "github": "https://github.com/pialgigabyte-source",
+      "initial_installation_images": ["https://sourceforge.net/projects/project-ascp/files/infiniti/recovery"],
+      "extra_images": []
+    }
+  ]
+}

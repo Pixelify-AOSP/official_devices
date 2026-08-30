@@ -24,6 +24,8 @@ The following devices are officially supported, receiving automated OTA system u
 |:---|:---:|:---|:---:|
 | **Poco F5 / Redmi Note 12 Turbo** | `marble` | [![Ashwani](https://img.shields.io/badge/Ashwani-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/beingashwani) | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/being_ashwani) |
 | **Redmi Turbo 3 / POCO F6** | `peridot` | [![kenway214](https://img.shields.io/badge/kenway214-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kenway214) | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ph12nex) |
+| **CMF Phone 1** | `Tetris` | [![Anshuman X](https://img.shields.io/badge/Anshuman%20X-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxxcodebug) | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AnshumanAhirwar) |
+| **Redmi 12 5G / Poco M6 Pro 5G** | `sky` | [![Anshuman X](https://img.shields.io/badge/kAiF-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxxcodebug) | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kaif_00z) |
 
 ---
 

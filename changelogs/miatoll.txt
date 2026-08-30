@@ -1,0 +1,16 @@
+# 10-aug-2026
+
+- Fixed Chrome issues on A17
+- Fixed apps getting stuck on launch screen
+- Kernel: sync latest changes from QCOM 8150
+- Kernel: Enabled CONFIG_CHECKPOINT_RESTORE
+- Kernel: Backport: clone3
+
+# 03-Aug-2026
+
+- Latest Source changes to ASCP 6.1 Android 17
+- Update WFD system blobs from CPH2747_11_C_OTA_1020_all_6yqNTQ_01000100
+- Added Leica camera from crdroid miatoll
+- Added Lunaris Dolby
+- set FCM level to 7
+

@@ -1,0 +1,5 @@
+=== August 01, 2026 ===
+- initial android 17 update.
+- improvement in powerhint.
+- Added BCR.
+- Added updated kernelsu and SUSFS.

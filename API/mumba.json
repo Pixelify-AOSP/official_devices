@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "NoEscape.exe",
+      "currently_maintained": true,
+      "oem": "Motorola",
+      "device": "Motorola G57 Power",
+      "filename": "ASCP-v6.1-mumba-OFFICIAL-20260725-0238.zip",
+      "download": "https://sourceforge.net/projects/project-ascp/files/mumba/ASCP-v6.1-mumba-OFFICIAL-20260725-0238.zip/download",
+      "timestamp": 1784947080,
+      "md5": "4f3a4fa91aca452321157f3699d1057b",
+      "sha256": "b96f13fbeb2e6fdc65c8bdf0a27483e05732ee19c652fff94c4b44707d9308ec",
+      "size": 2800180336,
+      "version": "6.1",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/noescape_aosp",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/n0escape-exe",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}

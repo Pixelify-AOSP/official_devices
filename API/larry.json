@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Viaan",
+      "currently_maintained": true,
+      "oem": "OnePlus",
+      "device": "OnePlus Nord CE 3 Lite",
+      "filename": "ASCP-v6.0-larry-OFFICIAL-20260708-1626.zip",
+      "download": "https://sourceforge.net/projects/project-ascp/files/larry/ASCP-v6.0-larry-OFFICIAL-20260708-1626.zip/download",
+      "timestamp": 1783526651,
+      "md5": "d48b2a4da22c750e79c26539f6671641",
+      "sha256": "85af9a1aa8952c77693da393c205c51d92c9c10c8f5b30037430de4e8e4c8cdc",
+      "size": 2709269248,
+      "version": "17.6.0.LARACIDOF",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/OPNordCE3Lite",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/n0escape-exe",
+      "initial_installation_images": ["https://sourceforge.net/projects/project-ascp/files/larry/recovery"],
+      "extra_images": []
+    }
+  ]
+}
