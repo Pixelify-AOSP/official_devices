@@ -1,0 +1,8 @@
+=== July 20, 2026 ===
+- Initial CP2A release
+- Enable Blur by Default
+- Fixed Free fire pink screen
+- Fixed Mi Cam thx to ρнσєиιχツ sir
+- Fixed audio and video Stuck issue
+- Fixed GMS crash 
+- NON ROOT Scarlet Kernel
