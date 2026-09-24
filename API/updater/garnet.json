@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1790271342,
+    "files": [
+      {
+        "filename": "ASCP-v6.3-garnet-OFFICIAL-20260924-1739.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "fbd39323d67e9f64f1132952cc5110a132039006ff165eada0b692c73e8f7d3a",
+        "size": 3641157960,
+        "url": "https://sourceforge.net/projects/project-ascp/files/garnet/6.3/ASCP-v6.3-garnet-OFFICIAL-20260924-1739.zip/download",
+        "ota_property_files": "payload_metadata.bin:4549:211088,payload.bin:4549:3641149976,payload_properties.txt:3641154583:156,apex_info.pb:2164:1448,care_map.pb:3659:843,metadata:69:689,metadata.pb:826:1290"
+      }
+    ],
+    "type": "OFFICIAL",
+    "version": "6.3"
+  }
+]
