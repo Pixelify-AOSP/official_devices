@@ -97,6 +97,20 @@
           "deprecated": false
         }
       ]
+     },
+     {
+      "name": "POCO X5 PRO 5G",
+      "codename": "redwood",
+      "maintainer": "BlueHeart016",
+      "github": "https://github.com/blueheart01",
+      "telegram": "https://t.me/blueheart016",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
