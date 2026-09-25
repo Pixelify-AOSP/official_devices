@@ -111,6 +111,20 @@
           "deprecated": false
         }
       ]
+       },
+    {
+      "name": "Nothing Phone (3a) Lite",
+      "codename": "Galaxian",
+      "maintainer": "Samakshhhh",
+      "github": "https://github.com/samakshkambxj",
+      "telegram": "https://t.me/veyn64",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
