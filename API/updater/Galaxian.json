@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1790388688,
+    "files": [
+      {
+        "filename": "ASCP-v6.3-Galaxian-OFFICIAL-20260926-0212.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "2a305ac04851490940b1f5fa486994d6e4a6b3643645c672807b6d1b4ba42a48",
+        "size": 3010849494,
+        "url": "https://sourceforge.net/projects/project-ascp/files/Galaxian/ASCP-v6.3-Galaxian-OFFICIAL-20260926-0212.zip/download",
+        "ota_property_files": "payload_metadata.bin:5020:173710,payload.bin:5020:3010840980,payload_properties.txt:3010846058:156,apex_info.pb:2334:1546,care_map.pb:3927:1046,metadata:69:683,metadata.pb:820:1466"
+      }
+    ],
+    "type": "OFFICIAL",
+    "version": "6.3"
+  }
+]
