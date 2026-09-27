@@ -1,26 +1,14 @@
 - Latest Source changes to ASCP 6.3
-- Kernel source update to  GlaciumKernel-5.0
-- Implemented Zen driver with smart background task detection
-- Enforced ULPS for display panel during sleep
-- TrustZone accept threads now freeze cleanly during suspend
-- Fixed IPA modem interrupts handling and prevented modem data channel crashes
-- Fixed wifi speed not working properly in some regions
-- Fixed reboot to recovery/reboot to fastboot issue
-- Fixed fastcharge set to slow always after reboot
-- Fix Bluetooth and Wi-Fi initialization in early boot phase causing bootloop and crash
-- Optimized binder IPC latency and CPU energy model (EAS) scheduling
-- Improved deep sleep battery life and idle power consumption
-- Fixed fastcharge resetting back to slow mode after reboot
-- Fixed reboot to recovery / reboot to fastboot commands hanging
-- Improve CPU ramp-up and ramp-down behavior
-- Refine workload balancing across performance and efficiency cores
-- Updated Xiaomi touch driver
-- Fix Panel orientation now correctly updates orientation and xiaomi touch game mode
-- Fixed Wi-Fi link speed negotiation and throughput issues in certain regions
-- Fixed race condition in early-boot Bluetooth & Wi-Fi initialization causing bootloops/crashes
-- Fix perf hal crashing
-- Improved modem sleep transition and packet aggregation
-- Native Bypass Charging v3.1: Refined logic and battery status reporting
-- Optimized charging thermal throttling for reduced device temperatures while fast charging
-- Updated BCR to latest v3.9
-- Miscellaneous cleanups and improvements
+- Kernel source update to GlaciumKernel-5.0 Updated
+- Implemented Xiaomi haptics with rich vibration effects
+- Fixed Dolby AC4 Audio Codec playback across various apps
+- Improved Dynamic Island layout, padding, and animations
+- Removed custom clock from lockscreen settings
+- Added lockscreen theme picker with custom clocks support (tap and hold on lockscreen) [Credit: Penguin OS Team]
+- Tuned EAS and CPU energy model for SM8635
+- Improved CPU ramp-up/ramp-down behavior and core workload balancing
+- Refined uclamp boost hints for smoother app launches and UI transitions
+- Optimized idle power consumption and deep sleep battery drain
+- Optimized thermal profiles and charging thermal throttling behavior
+- Fine-tuned SurfaceFlinger frame pacing
+- Miscellaneous cleanup and improvements

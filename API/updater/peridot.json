@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1790203035,
+    "datetime": 1790483158,
     "files": [
       {
-        "filename": "ASCP-v6.3-peridot-OFFICIAL-20260923-2238.zip",
+        "filename": "ASCP-v6.3-peridot-OFFICIAL-20260927-0427.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 37,
-        "sha256": "d3f5013e990981ffd8af8716aa54eb41ea2f7cabcb885c2102feedd8b3f6432d",
-        "size": 4200446437,
-        "url": "https://sourceforge.net/projects/project-ascp/files/peridot/6.3/ASCP-v6.3-peridot-OFFICIAL-20260923-2238.zip/download",
-        "ota_property_files": "payload_metadata.bin:5079:251769,payload.bin:5079:4200438037,payload_properties.txt:4200443174:156,apex_info.pb:2305:1543,care_map.pb:3895:1137,metadata:69:693,metadata.pb:830:1427"
+        "sha256": "4b2e1beb548dd41d9f7524abdb8e7f145e1b4e66a6b03e87e22d8d785a5246fc",
+        "size": 4222501478,
+        "url": "https://sourceforge.net/projects/project-ascp/files/peridot/6.3/ASCP-v6.3-peridot-OFFICIAL-20260927-0427.zip/download",
+        "ota_property_files": "payload_metadata.bin:5079:254223,payload.bin:5079:4222493078,payload_properties.txt:4222498215:156,apex_info.pb:2305:1543,care_map.pb:3895:1137,metadata:69:693,metadata.pb:830:1427"
       }
     ],
     "type": "OFFICIAL",
