@@ -1,0 +1,19 @@
+[
+  {
+    "datetime": 1790457489,
+    "files": [
+      {
+        "filename": "ASCP-v6.3-miatoll-OFFICIAL-20260926-2122.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "8b733bd297c66411ca1d8e8a0e17795c6e5d6042a25b41c0ce5ba843133fb372",
+        "size": 3547889047,
+        "url": "https://sourceforge.net/projects/project-ascp/files/miatoll/ASCP-v6.3-miatoll-OFFICIAL-20260926-2122.zip/download",
+        "ota_property_files": "metadata:69:368,metadata.pb:505:282"
+      }
+    ],
+    "type": "OFFICIAL",
+    "version": "6.3"
+  }
+]
+
