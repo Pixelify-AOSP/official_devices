@@ -1,0 +1,4 @@
+# 27.09.26
+- synced with latest v6.3 source
+- some powerhint minor tweeks
+- kernel: merge with latest sm8150 qcom changes 
