@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1790530004,
+    "files": [
+      {
+        "filename": "ASCP-v6.3-onyx-OFFICIAL-20260927-1728.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "7e7bd190d651eff723e33c3369ce35464b50b37c00592f81bc2a2b4308a3bde8",
+        "size": 5216233352,
+        "url": "https://sourceforge.net/projects/project-ascp/files/onyx/6.3/ASCP-v6.3-onyx-OFFICIAL-20260927-1728.zip/download",
+        "ota_property_files": "payload_metadata.bin:4786:265670,payload.bin:4786:5216224952,payload_properties.txt:5216229796:156,apex_info.pb:2195:1542,care_map.pb:3784:935,metadata:69:679,metadata.pb:816:1331"
+      }
+    ],
+    "type": "OFFICIAL",
+    "version": "6.3"
+  }
+]
