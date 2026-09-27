@@ -1,0 +1,5 @@
+Source Changelog: https://t.me/ascpos_marble/1347
+
+28/09/2026
+- Intial A17 Official build
+
