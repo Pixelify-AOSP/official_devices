@@ -126,5 +126,21 @@
         }
       ]
     }
+  ],
+  "Google": [
+    {
+      "name": "Pixel 4 XL",
+      "codename": "coral",
+      "maintainer": "Rum1ka",
+      "github": "https://github.com/prpjzz",
+      "telegram": "https://t.me/Rum1kaLab",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
   ]
 }

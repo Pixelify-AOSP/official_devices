@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1790531362,
+    "files": [
+      {
+        "filename": "ASCP-v6.3-coral-OFFICIAL-20260927-1749.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "ce07cdf523b36b7b556894d2d178b601f6ae4cd143ca29885d0872ed9b85714e",
+        "size": 2823741058,
+        "url": "https://sourceforge.net/projects/project-ascp/files/coral/6.3/ASCP-v6.3-coral-OFFICIAL-20260927-1749.zip/download",
+        "ota_property_files": "payload_metadata.bin:4006:177659,payload.bin:4006:2823733620,payload_properties.txt:2823737684:156,apex_info.pb:1915:1498,care_map.pb:3460:499,metadata:69:668,metadata.pb:805:1062"
+      }
+    ],
+    "type": "OFFICIAL",
+    "version": "6.3"
+  }
+]
