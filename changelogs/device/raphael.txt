@@ -1,3 +1,35 @@
+=== October 01, 2026 ===
+- Synced up with the latest source, with almost all the noticeable bugs fixed.
+- Enable dynamic_ecns audio feature property.
+- Switch to Kawase2 render engine blur algorithm.
+- Reduced overheating during video playback like Instagram Reels, YouTube etc.
+- Tuning UFS clock scaling during boot time.
+- Remove unused property.
+- Removing unused setprop persist.camera.gyro.disable.
+- Remove unused hvdcp/charger service and properties.
+- Enable display idle_state mechanism.
+- Turn on GPU protected contents.
+- Enable LZ4 compression for ramdisks.
+- Removed FM Radio (in my thought it's useless in 2026, if you guys need it then i'll add it again).
+- Switch to default aosp cgroup.
+- Finetune task-profiles.
+- Enable carrier aggregation (LTE+).
+- rename /persist to /mnt/vendor/persist.
+- Drop fingerprint override.
+- Enable Screen off UDFPS by default.
+- Powerhint: fine tune some hints.
+- Update BCR to v3.9.
+- Merged crdroid sm8150 changes.
+- UPSTREAM SUSFS TO 2.3.0.
+- Add a fix for APatch.
+- Locking: Introduce __cleanup() based infrastructure.
+- Prevent NULL pointer dereference in remove_waiter() on self-deadlock.
+- Fix potential detection of mount minor dev gap - The detection was public by JingMatrix Demo app, see JingMatrix.
+- Some other kernel optimizations as well.
+- Optimizations for more battery backup.
+- Silence some spam.
+- Improve stability & performance and ui smoothness.
+
 === September 22, 2026 ===
 - Switched back to traditional haptic feedback.
 - Enable crdroid doze features.
