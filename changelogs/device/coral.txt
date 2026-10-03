@@ -1,4 +1,8 @@
 Source Changelog: https://t.me/ascpos_marble/1347
 
+03/10/2026
+- Include Lunaris Dolby
+- Use erofs instead of ext4 on /system partition
+
 28/09/2026
 - Intial A17 Official build
