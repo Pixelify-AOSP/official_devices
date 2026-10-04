@@ -1,3 +1,25 @@
+=== October 4, 2026 ===
+
+- Patched MIUI Camera to enable Leica features and Leica processing with RAW support
+- Updated bypass charging implementation
+- Updated haptics VibratorFeature HAL from HyperOS
+- Fixed assisted GPS (A-GPS) not working properly indoors (Note: may increase idle drain if apps continuously request location in background)
+- Tuned WALT governor response latency and task placement
+- Optimized Adreno GPU devfreq scaling and bus bandwidth voting
+- Refined dirty page writeback ratios and flusher thread wakeups to alleviate I/O bottlenecks
+- Reduced Android IPC Binder lock contention during multi-threaded app transactions
+- Optimized memory compaction and proactive page reclaim to eliminate kswapd CPU spikes
+- Stripped redundant kernel tracepoints and debug overhead to minimize scheduling latency
+- Added per-app HDR disable control
+- Added mock location override support
+- Added OEM-style popup on tapping QS music card widget
+- Move locksccren customisations (hold on lockscreen to change)
+- Allow toggling rotation button suggestions
+- Updated Obscura privacy manager and TEE simulation engine
+
+
+=== September 24, 2026 ===
+
 - Latest Source changes to ASCP 6.3
 - Kernel source update to GlaciumKernel-5.0 Updated
 - Implemented Xiaomi haptics with rich vibration effects
@@ -12,3 +34,43 @@
 - Optimized thermal profiles and charging thermal throttling behavior
 - Fine-tuned SurfaceFlinger frame pacing
 - Miscellaneous cleanup and improvements
+
+
+=== September 24, 2026 ===
+
+- Latest Source changes to ASCP 5.5
+- Updated Security Patch Level to June SPL
+- Updated kernel version to 6.1.170-GlaciumKernel-4.2
+- Integrated native Droidspace container support into the kernel
+- Merged CLO tag 'LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0' into platform/vendor/opensource/dataipa
+- Merged CLO tag 'DISPLAY.LA.4.0.r2-10100-lanai.0' into platform/hardware/qcom/display
+- Merged CLO tag 'LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0' into platform/vendor/qcom-opensource/data-ipa-cfg-mgr
+- Updated MiuiCamerato latest 6.4 version
+- Kernel level pocket mode with Nonui sensor
+- Implemented High Brightness Mode (HBM) and fixed an issue preventing HBM activation after waking from a low-power (LP) state
+- Resolved occasional Bluetooth daemon crashes
+- Updated and patched display blobs to address visual compatibility issues
+- Reduced UI micro-stutters during high thermal scenarios
+- Fixed multi-channel audio routing issues during calls and media playback
+- Resolved a rare issue where auto-brightness could become unresponsive
+- Fixed USB tethering connection dropping or becoming unresponsive on affected devices
+- Refined Performance and Performance+ mode scaling behavior for better efficiency
+- Updated WALT governor tuning parameters for smoother CPU scaling
+- Improved scheduler latency and responsiveness under heavy CPU load
+- Optimized GPU frequency scaling for sustained gaming performance
+- Reduced unnecessary system wakeups to improve standby battery life
+- Optimized UFS storage access and I/O scheduling performance
+- Refined thermal throttling thresholds for progressive performance scaling
+- Improved foreground task prioritization in the CPU scheduler
+- Optimized battery charging thermal controls to prevent overheating and ensure proper throttling during fast charging
+- Adjusted virtual memory (VM) and allocation parameters
+- Backported CFS scheduler optimizations to reduce jitter and UI stutters under heavy load
+- Upstream F2FS and EXT4 improvements
+- Refined kernel memory management page reclaim
+- Optimized CPU scheduling and task placement for improved UI responsiveness
+- Reduced overall system memory usage under heavy multitasking cases
+- Fixed minor frame drops during quick settings panel expansion and app transitions
+- Optimized writeback performance and reduced storage I/O latency
+- Fixed minor power consumption leaks during idle standby
+- Updated gamebar and powertools to latest version
+- Updated BCR to latest v3.1
