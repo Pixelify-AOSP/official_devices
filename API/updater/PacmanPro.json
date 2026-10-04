@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1791139958,
+    "files": [
+      {
+        "filename": "ASCP-v6.3-PacmanPro-OFFICIAL-20261004-1900.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "47431ffb4d517adbb2f1e305b8b9440836d797685fc5a24222910a8b59c31908",
+        "size": 3335109099,
+        "url": "https://sourceforge.net/projects/project-ascp/files/PacmanPro/ASCP-v6.3-PacmanPro-OFFICIAL-20261004-1900.zip/download",
+        "ota_property_files": "payload_metadata.bin:5096:189490,payload.bin:5096:3335100509,payload_properties.txt:3335105663:156,apex_info.pb:2378:1548,care_map.pb:3973:1076,metadata:69:686,metadata.pb:823:1507"
+      }
+    ],
+    "type": "OFFICIAL",
+    "version": "6.3"
+  }
+]

@@ -1,0 +1,4 @@
+05/10/2026
+- Intial A17 Official build
+- Fixed a issue where some upi apps were causing bootloops
+- Fixed overlap on Fingerprint scanner during setup.
