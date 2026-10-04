@@ -142,5 +142,35 @@
         }
       ]
     }
+  ],
+  "Nothing": [
+    {
+      "name": "Nothing Phone (2a)",
+      "codename": "Pacman",
+      "maintainer": "TwistedVis",
+      "github": "https://github.com/TwistedVision518",
+      "telegram": "https://t.me/TwistedVis518",
+      "supported_versions": [
+        {
+          "version_code": "6.3",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (2a) Plus",
+      "codename": "PacmanPro",
+      "maintainer": "TwistedVis",
+      "github": "https://github.com/TwistedVision518",
+      "telegram": "https://t.me/TwistedVis518",
+      "supported_versions": [
+        {
+          "version_code": "6.3",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
   ]
 }
