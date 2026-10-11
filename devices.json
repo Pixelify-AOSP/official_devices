@@ -28,6 +28,20 @@
         }
       ]
     },
+      {
+      "name": "Xiaomi 12T Pro",
+      "codename": "diting",
+      "maintainer": "Jezzay097",
+      "github": "https://github.com/jessepincay",
+      "telegram": "https://t.me/Jezzay097",
+      "supported_versions": [
+        {
+          "version_code": "6.3",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
     {
       "name": "POCO F3 / Mi 11X / Redmi K40",
       "codename": "alioth",

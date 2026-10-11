@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1791688575,
+    "files": [
+      {
+        "filename": "ASCP-v6.3-diting-OFFICIAL-20261011-0317.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "24ae5035d81fdf4697f65802f3f5ca50880108f736969cb3786358ff1d0f9177",
+        "size": 3857911759,
+        "url": "https://sourceforge.net/projects/project-ascp/files/diting/6.3/ASCP-v6.3-diting-OFFICIAL-20261011-0317.zip/download",
+        "ota_property_files": "payload_metadata.bin:4603:254916,payload.bin:4603:3857903722,payload_properties.txt:3857908383:156,apex_info.pb:2244:1448,care_map.pb:3739:817,metadata:69:685,metadata.pb:822:1374"
+      }
+    ],
+    "type": "OFFICIAL",
+    "version": "6.3"
+  }
+]
