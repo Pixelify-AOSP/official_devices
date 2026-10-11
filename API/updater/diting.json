@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1790530004,
+    "files": [
+      {
+        "filename": "",
+        "os_patch_level": "",
+        "os_sdk_level": 37,
+        "sha256": "",
+        "size": 5216233352,
+        "url": "",
+        "ota_property_files": ""
+      }
+    ],
+    "type": "OFFICIAL",
+    "version": "6.3"
+  }
+]
